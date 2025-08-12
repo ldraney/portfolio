@@ -38,6 +38,21 @@ Deeply influenced by **The DevOps Handbook**, **Malcolm Gladwell**, and **The Ne
 - **Email:** Available via portfolio contact form
 - **Consultation:** Strategic assessments and custom proof of concepts available
 
+## Deployment
+
+To redeploy the portfolio after making changes:
+
+```bash
+cd /Users/earthharbor/repos/portfolio
+npx quartz build
+cp -r public/* docs/
+git add .
+git commit -m "Redeploy portfolio updates"
+git push
+```
+
+GitHub Pages will automatically rebuild and deploy from the `/docs` folder within a few minutes.
+
 ---
 
 *Transforming business operations through intelligent automation, cultural transformation, and scalable system architecture.*
