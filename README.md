@@ -34,7 +34,7 @@ Deeply influenced by **The DevOps Handbook**, **Malcolm Gladwell**, and **The Ne
 
 ## Contact
 
-- **Website:** [Portfolio Site](https://ldraney.github.io/portfolio)
+- **Website:** [https://ldraney.github.io/portfolio](https://ldraney.github.io/portfolio)
 - **Email:** Available via portfolio contact form
 - **Consultation:** Strategic assessments and custom proof of concepts available
 
