@@ -43,6 +43,20 @@ Workflow automation, custom integrations, and business process optimization
 ### [[services/Documentation Systems|Documentation Systems]]
 Knowledge base creation, process documentation, and team collaboration platforms
 
+## Documentation & Methodology Framework
+
+### [[documentation/index|Documentation as Strategic Foundation]]
+How documentation bridges sales and fulfillment, transforming Toyota's kanban principles into modern AI-driven operations
+
+### [[documentation/AI Agent Corporate Structure|AI Agent Corporate Structure]]
+Revolutionary framework for organizing AI agents like a modern corporation with specialized roles and clear hierarchies
+
+### [[documentation/Value Stream Optimization|Value Stream Optimization]]
+Comprehensive approach to optimizing business value streams from sales to fulfillment using lean principles and intelligent automation
+
+### [[documentation/Obsidian to Quartz Publishing|Obsidian to Quartz Publishing]]
+Streamlined workflow for publishing private knowledge to professional portfolio sites with automated content curation
+
 ## Featured Case Studies
 
 ### [[case-studies/Pure Earth Labs Transformation|Pure Earth Labs Digital Transformation]]
