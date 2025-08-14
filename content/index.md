@@ -84,6 +84,10 @@ Comprehensive overview of programming languages, frameworks, and tools
 ### [[contact/Consultation Process|Request a Consultation]]
 Schedule a discussion about your automation needs and receive a custom proof of concept
 
+### Connect on LinkedIn
+[Lucas Draney - DevOps Manager & AI Automation Expert](https://www.linkedin.com/in/lucas-draney-904457133/)
+Connect for professional discussions, collaboration opportunities, and insights into modern DevOps and AI automation practices.
+
 **Ready to transform your business operations?** Let's discuss how AI automation and intelligent workflow design can streamline your processes, reduce manual work, and accelerate growth.
 
 ---
